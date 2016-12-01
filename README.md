@@ -11,3 +11,5 @@ Tämä on tavallista
 **Tämä on lihavoitu**
 
 [Määrittelydokumentti](https://github.com/PetuV/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
+
+Tämä on tavallista
