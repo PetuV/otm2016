@@ -9,3 +9,5 @@ Tämä on tavallista
 [Käyttöohje](https://github.com/PetuV/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
 
 **Tämä on lihavoitu**
+
+[Määrittelydokumentti](https://github.com/PetuV/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
