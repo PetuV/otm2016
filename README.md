@@ -13,3 +13,5 @@ Tämä on tavallista
 [Määrittelydokumentti](https://github.com/PetuV/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
 
 Tämä on tavallista
+
+Tämä teksti lisättiin testbranchissa.
